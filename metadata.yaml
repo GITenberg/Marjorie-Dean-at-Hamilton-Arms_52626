@@ -1,0 +1,30 @@
+_repo: Marjorie-Dean-at-Hamilton-Arms_52626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Gordon, Grace
+    - Lester, Pauline
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_issued: '2016-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Marjorie Dean at Hamilton Arms
+url: http://www.gutenberg.org/ebooks/52626
